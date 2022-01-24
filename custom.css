@@ -1,29 +1,30 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
 
-h2{
+h2 {
     font-weight: 700;
     color: #0D0925;
 }
 
-h3, h4{
+h3,
+h4 {
     color: #231D4F;
 }
 
-h5{
+h5 {
     color: #0C1920;
 }
 
-p{
+p {
     color: #6C6C6C;
 }
 
-.white{
+.white {
     color: white;
 }
 
-.button{
+.button {
     background-color: white;
     height: 44px;
     width: 168px;
@@ -31,29 +32,30 @@ p{
     font-weight: 700;
 }
 
-.choose-btn{
+.choose-btn {
     background-color: #d5c6ec75;
     color: #3F87F5;
     margin-left: 60px;
 }
 
-.margin-toast{
+.margin-toast {
     margin-left: 100px;
     margin-top: -430px;
     background-color: #9dc1f7;
 }
 
-.choose-whbtn{
+.choose-whbtn {
     background-color: white;
     color: #3F87F5;
     margin-left: 60px;
 }
 
-.acc{
+.acc {
     height: 460px;
     width: 552px;
 }
-.faq{
+
+.faq {
     margin-left: 159px;
     margin-right: 159px;
 }
@@ -65,52 +67,58 @@ footer {
 }
 
 
-.highlight{
+.highlight {
     position: relative;
     bottom: 40px;
 }
 
-.badge{
-    margin-left: 260px;
+.badge {
+    margin-left: 200px;
     margin-top: -8px;
 }
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 688px) {
 
-    .album{
-        display: flex!important;
+    .album {
+        display: flex !important;
         justify-content: center;
         flex-wrap: wrap;
     }
-    .card{
+
+    .card {
         margin: 30px;
     }
 
-    .margin-toast{
-    margin-left: 100px;
-    margin-top: 0px;
-    background-color: #9dc1f7;
-}
+    .margin-toast {
+        margin-left: 100px;
+        margin-top: 0px;
+        background-color: #9dc1f7;
+    }
 
-.accord {
-    display: flex!important;
-    flex-direction: column;
-}
+    .accord {
+        display: flex !important;
+        flex-direction: column;
+    }
 
-.pep{
-    height: 300px;
-    width: 320px;
-}
+    .pep {
+        height: 300px;
+        width: 320px;
+    }
 
-.toast{
-    height: 75px;
-    width: 200px;
-}
+    .toast {
+        height: 75px;
+        width: 200px;
+    }
 
-.ceremony{
-    height: 200px;
-    width: 250px;
-}
+    .ceremony {
+        height: 200px;
+        width: 250px;
+    }
+
+    .badge {
+        margin-left: 200px;
+        margin-top: -8px;
+    }
 
 }
