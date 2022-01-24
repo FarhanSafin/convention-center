@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-weight: 700;
+    color: #0D0925;
+}
+
+h3, h4{
+    color: #231D4F;
+}
+
+.acc{
+    height: 460px;
+    width: 552px;
+}
+.faq{
+    margin-left: 159px;
+    margin-right: 159px;
+}
+
+footer {
+    background-color: #0a0826;
+    color: white;
+    padding: 30px;
+}
+
+.right{
+    margin-top: 50px;
+}
+
+.highlight{
+    position: relative;
+    bottom: 40px;
+}
+
+.badge{
+    margin-left: 260px;
+    margin-top: -8px;
+}
