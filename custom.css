@@ -24,6 +24,10 @@ p {
     color: white;
 }
 
+.nav-title{
+    font-weight: 700;
+}
+
 .button {
     background-color: white;
     height: 44px;
