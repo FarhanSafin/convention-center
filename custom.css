@@ -31,7 +31,7 @@ p {
 
 .button {
     background-color: white;
-    height: 44px;
+    height: 35px;
     width: 168px;
     color: #3F87F5;
     font-weight: 700;
@@ -125,5 +125,15 @@ footer {
         margin-left: 200px;
         margin-top: -8px;
     }
+    .value-text{
+        text-align: center;
+    }
 
+    .carousel-caption{
+        top: 0.1%;
+    }
+
+    .carousel-indicators{
+        display: none;
+    }
 }
