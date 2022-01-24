@@ -76,7 +76,7 @@ footer {
 }
 
 /* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 688px) {
 
     .album{
         display: flex!important;
@@ -99,18 +99,18 @@ footer {
 }
 
 .pep{
-    height: 310px;
-    width: 360px;
+    height: 300px;
+    width: 320px;
 }
 
 .toast{
-    height: 60px;
-    width: 300px;
+    height: 75px;
+    width: 200px;
 }
 
 .ceremony{
-    height: 214px;
-    width: 315px;
+    height: 200px;
+    width: 250px;
 }
 
 }
