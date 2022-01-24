@@ -74,3 +74,43 @@ footer {
     margin-left: 260px;
     margin-top: -8px;
 }
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+    .album{
+        display: flex!important;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .card{
+        margin: 30px;
+    }
+
+    .margin-toast{
+    margin-left: 100px;
+    margin-top: 0px;
+    background-color: #9dc1f7;
+}
+
+.accord {
+    display: flex!important;
+    flex-direction: column;
+}
+
+.pep{
+    height: 310px;
+    width: 360px;
+}
+
+.toast{
+    height: 60px;
+    width: 300px;
+}
+
+.ceremony{
+    height: 214px;
+    width: 315px;
+}
+
+}
