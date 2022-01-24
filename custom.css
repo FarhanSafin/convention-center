@@ -32,13 +32,15 @@ p{
 }
 
 .choose-btn{
-    background-color: #f496d249;
+    background-color: #d5c6ec75;
     color: #3F87F5;
     margin-left: 60px;
 }
 
-.toast{
-    margin-bottom: -5px;
+.margin-toast{
+    margin-left: 100px;
+    margin-top: -430px;
+    background-color: #9dc1f7;
 }
 
 .choose-whbtn{
